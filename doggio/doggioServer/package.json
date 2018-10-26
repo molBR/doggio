@@ -1,0 +1,23 @@
+{
+  "name": "doggio",
+  "version": "1.0.0",
+  "description": "servidor IoT",
+  "main": "server.js",
+  "scripts": {
+    "test": "n sei",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n tem"
+  },
+  "keywords": [
+    "n",
+    "tem"
+  ],
+  "author": "molBR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
